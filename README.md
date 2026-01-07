@@ -1,9 +1,5 @@
 # Multi-LLM-Judge-Aggregator
 
-**Author:** Mykhailo Tymoshenko  
-**Version:** 1.0  
-**Last Updated:** January 2026  
-
 ---
 
 ## Overview
