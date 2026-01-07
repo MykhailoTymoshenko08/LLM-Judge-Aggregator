@@ -39,12 +39,13 @@ This project introduces an intelligent layer: after collecting answers from mult
 ---
 
 ## Project Structure
+```bash
 Multi-LLM-Judge-Aggregator/
 │── main.py # Main application entry point
 │── .env # API configuration (excluded from repo)
 │── requirements.txt # Dependencies
 │── README.md # Documentation
-
+```
 ---
 
 ## How It Works
