@@ -103,11 +103,12 @@ Based on analysis: Machine learning is an AI subset where algorithms learn from 
 ```
 
 ## Default Model Configuration
-###Role	                 Model	                                   Source
+```bash
+Role	                 Model	                                   Source
 Answer Generator 1	   meta-llama/llama-3.3-70b-instruct:free	   OpenRouter
 Answer Generator 2	   google/gemma-3-27b-it:free	               OpenRouter
 Judge Model	           mistralai/devstral-2512:free	             OpenRouter
-
+```
 You can modify these defaults in app.py.
 
 ##Project Evolution
